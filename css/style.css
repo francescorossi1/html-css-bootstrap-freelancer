@@ -5,3 +5,7 @@
 .jumbotron{
     min-height: 500px;
 }
+
+footer nav{
+    min-height: 200px;
+}
