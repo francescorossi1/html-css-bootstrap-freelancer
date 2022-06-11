@@ -4,9 +4,12 @@ footer nav{
 
 .bg-header{
     background-color: #2C3E50;
-    min-height: 100px;
 }
 
 .bgc-primary{
     background-color: #1ABC9C;
+}
+
+.min-h-100{
+    min-height: 100px;
 }
