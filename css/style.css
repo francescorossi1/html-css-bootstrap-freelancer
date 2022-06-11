@@ -1,15 +1,29 @@
-footer nav{
+footer{
     min-height: 200px;
 }
 
-.bg-header{
+.bgc-primary{
     background-color: #2C3E50;
 }
 
-.bgc-primary{
+.bgc-secondary{
     background-color: #1ABC9C;
+}
+
+.c-secondary{
+    color: #1ABC9C;
+}
+
+.bgc-tertiary{
+    background-color: #3A546D;
 }
 
 .min-h-100{
     min-height: 100px;
+}
+
+.rounded-btn{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
 }
